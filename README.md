@@ -3,7 +3,9 @@ Fixed-Lag Varing-Horizon (FLVH) and Fixed-Horizon Varing-Lag (FHVL) models are p
 
 ### Prerequisites
 #### Matlab
-```MALSAR[1]```
+```
+MALSAR [1]
+```
 #### Python 2
 ```
 NLTK
