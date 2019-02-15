@@ -22,7 +22,7 @@ In each model folder, there are the following files available:
     create_tasks.py: create tasks for multi-task learning
     train_test.py: create training and testing data
     mtl.mat: find the optimize W using MALSAR and save W matrix as a csv file
-    load.mat: load W from the csv file
+    load.py: load W from the csv file
     mtl_regression.py: for prediciton  
 ```
 
