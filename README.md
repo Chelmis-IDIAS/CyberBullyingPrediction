@@ -5,12 +5,14 @@ Fixed-Lag Varing-Horizon (FLVH) and Fixed-Horizon Varing-Lag (FHVL) models are p
 #### Matlab
 ```MALSAR[1]```
 #### Python 2
-```NLTK```
-```vaderSentiment```
-```SKlearn```
-```Pandas```
+```
+NLTK
+vaderSentiment
+SKlearn
+Pandas
+```
 ### Dataset
-We use comments spanning 22.1$ of all media sessions containing 40% profanities from the Instagram dataset available by [2]. 10k comments have been manually annotated by 10 experts.
+We use comments spanning 22.1 of all media sessions containing 40% profanities from the Instagram dataset available by [2]. 10k comments have been manually annotated by 10 experts.
 
 ### How to use
 In each model folder, there are the following files available:
