@@ -36,8 +36,7 @@ Email us at cchelmis@albany.edu if you are interested in our dataset! We are hap
 #### Citation
 If you use this code and/or dataset, please cite
 > Mengfan Yao, Charalampos Chelmis, and Daphney Zois. Cyberbullying Ends Here: Towards Robust Detection of Cyberbullying in Social Media. The 2019 World Wide Web Conference (WWW ’19), May 2019.
-
-> Charalampos Chelmis and Mengfan Yao. Minority Report: Cyberbullying Prediction on Instagram. In 11th ACM Conference on Web Science (WebSci ’19), July 2019
+Charalampos Chelmis and Mengfan Yao. Minority Report: Cyberbullying Prediction on Instagram. In 11th ACM Conference on Web Science (WebSci ’19), July 2019
 
 BibTeX
 ``` 
