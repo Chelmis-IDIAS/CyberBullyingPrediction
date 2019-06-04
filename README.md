@@ -14,7 +14,12 @@ SKlearn
 Pandas
 ```
 ### Dataset
-We use comments spanning 22.1 of all media sessions containing 40% profanities from the Instagram dataset available by [2]. 10k comments have been manually annotated by 10 experts.
+We use a corpus of 10 thousand comments, manually annotated as harassing or not by 10 experts. We focus on harassing comments due to their commonality to a number of types of unwanted behavior, including cyberharassment and cyberbullying. We used this data to evaluate our method for <robust and timely detection of cyberbullying> as well as for <harashment anticipation>.
+
+Our labeled corpus spans 22.1% of all media sessions containing at least 40% profanities in the dataset introduced by [2]. Of all media sessions containing at least 40% profanities, 47.5% had been labeled as positive if “there are negative words and/or comments with intent to harm someone or other, and the posts include two or more repeated negativity against a victim” [2].
+
+Dataset Access
+Email us at cchelmis@albany.edu if you are interested in our dataset! We are happy to share our data with you.
 
 ### How to use
 In each model folder, there are the following files available:
